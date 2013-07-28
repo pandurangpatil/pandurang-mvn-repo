@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Plugin to generate GWT Overlay types and Request Factory interfaces</name>
+      <prefix>mvn-helper</prefix>
+      <artifactId>mvn-helper-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
