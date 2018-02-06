@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>open.pandurang.gwt.gwt-pdfjs</groupId>
+  <artifactId>pdfjs</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180206111155</lastUpdated>
+  </versioning>
+</metadata>
